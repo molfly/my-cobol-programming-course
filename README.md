@@ -4,4 +4,4 @@
 
 1. `brew install open-cobol`
 2. Create Hello World
-3. 
+3. `cobc -x helloworld.cob`
