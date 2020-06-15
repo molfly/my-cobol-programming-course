@@ -7,7 +7,7 @@
 
        01  FUNCTION-NUMBER   PICTURE IS 99.
        01  SECOND-NUMBER     PICTURE IS 99.
-       01  THE-RESULT        PPICTURE IS 999.
+       01  THE-RESULT        PICTURE IS 999.
 
        PROCEDURE DIVISION.
        
