@@ -34,8 +34,9 @@
            DISPLAY "Message "
                    THE-NUMBER 
                    ": "
+                   THE-MESSAGE
                    THE-NAME.
 
-                   
+
        PROGRAM-DONE.
            STOP RUN.
