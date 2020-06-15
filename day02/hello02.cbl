@@ -15,7 +15,7 @@
 
            ACCEPT THE-NAME.
 
-           DISPLAY "Hello " THE-NAME.
-           
+           DISPLAY "Hello, " THE-NAME.
+
        PROGRAM-DONE.
            STOP RUN.
