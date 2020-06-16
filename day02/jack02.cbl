@@ -13,7 +13,7 @@
        PROGRAM-BEGIN.
 
       * Initialize the space variable
-           MOVE " " TO A-A-SPACE. 
+           MOVE " " TO A-SPACE. 
 
       * Set up and display line 1
            MOVE 1 TO THE-NUMBER.
