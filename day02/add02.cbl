@@ -12,7 +12,7 @@
        PROCEDURE DIVISION.
        
        PROGRAM-BEGIN.
-       
+      * Modify add02.cbl from Listing 2.5 to display a message that 
            DISPLAY "Enter the first number.".
 
            ACCEPT FUNCTION-NUMBER.
