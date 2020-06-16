@@ -11,6 +11,7 @@
        PROGRAM-BEGIN.
            DISPLAY "Today's massege is:".
            PERFORM SAY-HELLO.
+      *    My testing version     
            PERFORM SAY-HELLO.
 
 
