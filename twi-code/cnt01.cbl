@@ -13,12 +13,12 @@
        FILE SECTION.
        FD  FILEDATCLT-FILE
            DATA RECORD    IS FILEDATCLT-REC                   
-           01  FILEDATCLT-STATUS.
-           05  FILEDATCLT-STATUS-L     pic X.
-           05  FILEDATCLT-STATUS-R     pic X.
-           01  FILEDATCLT-EOF          pic X       value 'N'.
-           01  FILEDATCLT-OPEN-FLAG    pic X       value 'C'.
-           01 RecordCount              PIC 99999 VALUE 0.
+       01  FILEDATCLT-STATUS.
+       05  FILEDATCLT-STATUS-L     pic X.
+       05  FILEDATCLT-STATUS-R     pic X.
+       01  FILEDATCLT-EOF          pic X       value 'N'.
+       01  FILEDATCLT-OPEN-FLAG    pic X       value 'C'.
+       01 RecordCount              PIC 99999 VALUE 0.
        WORKING-STORAGE SECTION.  
 
        PROCEDURE DIVISION.
