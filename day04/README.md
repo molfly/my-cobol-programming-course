@@ -39,12 +39,12 @@ IF контролирует все операторы под ним, пока н
 
 Новый термин: символы, используемые для сравнения двух значений, называются операторами сравнения. Короткие и длинные версии этих сравнений являются операторами сравнения. `IS NOT EQUAL`, `NOT =`, `=`, `IS EQUAL`, `NOT <`, `>`, `GREATER THAN`, and `NOT GREATER THAN` являются примерами операторов сравнения.
 
-| Оператор сравнения              | Описание                                                        |
-| ------------------------------- | ----------------------------------------------------------------|
-| IF x IS EQUAL y                 | True if x equals y                                              |
-| IF x IS LESS THAN y             | True if x is less than y                                        |
-|IF x IS GREATER THAN y           | True if x is greater than y                                     |
-|IF x IS NOT EQUAL y              | True if x does not equal y                                      |
-|IF x IS NOT LESS THAN y          | True if x is not less than y (or is equal to or greater than y) |
-|IF x IS NOT GREATER THAN y       | True if x is not greater than y (or is equal to or less than y) |
+| Оператор сравнения              | Описание                                                     |
+| ------------------------------- | ------------------------------------------------------------ |
+| IF x IS EQUAL y                 | Истинно если x равно y                                       |
+| IF x IS LESS THAN y             | Истинно если x меньше чем y                                  |
+| IF x IS GREATER THAN y          | Истинно если x больше чем y                                  |
+| IF x IS NOT EQUAL y             | Истинно если x не равно y                                    |
+| IF x IS NOT LESS THAN y         | Истинно если x не меньше чем y (или равно или больше, чем y) |
+| IF x IS NOT GREATER THAN y      | Истинно если x не больше чем y (или равно или меньше, чем y) |
 
