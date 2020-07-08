@@ -48,3 +48,13 @@ IF контролирует все операторы под ним, пока н
 | IF x IS NOT LESS THAN y         | Истинно если x не меньше чем y (или равно или больше, чем y) |
 | IF x IS NOT GREATER THAN y      | Истинно если x не больше чем y (или равно или меньше, чем y) |
 
+Слово `IS` в сравнении является необязательным, и `EQUAL`, `GREATER THAN` и `LESS THAN` могут быть сокращены до `=`, `>` и `<` соответственно.
+
+|Optional                |Operator Shortest Version|
+|------------------------|-------------------------|
+|IF x EQUAL y            |IF x = y                 |
+|IF x LESS THAN y        |IF x < y                 |
+|IF x GREATER THAN y     |IF x > y                 |
+|IF x NOT EQUAL y        |IF x NOT = y             |
+|IF x NOT LESS THAN y    |IF x NOT < y             |
+|IF x NOT GREATER THAN y |IF x NOT > y             |
