@@ -44,8 +44,7 @@
 
            IF WORD-1 > WORD-2
                  DISPLAY WORD-2
-                 DISPLAY WORD-1.
+                 DISPLAY WORD-1
            ELSE
                  DISPLAY WORD-1.
                  DISPLAY WORD-2.
-                 
