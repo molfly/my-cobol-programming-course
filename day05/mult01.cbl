@@ -34,7 +34,7 @@
            ACCEPT THE-NUMBER.
 
        DISPLAY-THE-TABLE.
-           DISPLAY "The " THE-NUMBER s table is:".
+           DISPLAY "The " THE-NUMBER "s table is:".
            PERFORM CALCULATE-AND-DISPLAY.
 
       * LEVEL 3 ROUTINES.
