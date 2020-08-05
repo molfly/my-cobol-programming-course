@@ -26,4 +26,3 @@
 
        MAIN-LOGIC.
            DISPLAY "This is the main logic.".
-              
