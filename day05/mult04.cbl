@@ -55,7 +55,7 @@
               THE-NUMBER " * " THE-MULTIPLIER " = " THE-PRODUCT.
 
            ADD 1 TO SCREEN-LINES.
-           IF SCREEN-LINES = 15.
+           IF SCREEN-LINES = 15
               DISPLAY "Press ENTER to continue . . ."
               ACCEPT A-DUMMY
               MOVE 0 TO SCREEN-LINES.
