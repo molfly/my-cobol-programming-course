@@ -40,7 +40,7 @@
            "Which multiplication table (01-99)?".
            ACCEPT THE-NUMBER.
 
-           DISPLAY "How many entries would you like (01-00)?".
+           DISPLAY "How many entries would you like (01-99)?".
            ACCEPT HOW-MANY.
 
        DISPLAY-THE-TABLE.
